@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Designing and building responsive web interfaces with a strong focus on UI/UX and user-centered design.<br><br>👯 I’m looking to collaborate on<br>UI/UX design projects, front-end web applications, and creative product ideas.<br><br>🤝 I’m looking for help with<br>Improving design systems, accessibility best practices, and advanced front-end animations.<br><br>🌱 I’m currently learning<br>Modern front-end frameworks, interaction design, and improving my UI/UX workflows.<br><br>💬 Ask me about<br>UI/UX design, front-end development, Figma, responsive design, and web performance.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple, clean, and visually pleasing designs.
-
+ BSc CSIT student | Python learner building a foundation in development. Exploring algorithms, projects, and clean code. Check out my journey!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aarati.bhandari.716) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__rtee__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arati-bhandari-13104038a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rteebhandari072@gmail.com) 
